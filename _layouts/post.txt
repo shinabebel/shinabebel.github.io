@@ -18,7 +18,7 @@ layout: layout
     </a>
   </div>
   <div class="col-md-12">
-    <a href="{{ site.previous.url }}">prev</a>
-    <a href="{{ site.next.url }}">next</a>
+    <a href="{{ page.previous.url }}">prev</a>
+    <a href="{{ page.next.url }}">next</a>
   </div>
 </div>
