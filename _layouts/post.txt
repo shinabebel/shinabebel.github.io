@@ -3,20 +3,20 @@ layout: layout
 ---
 
 <div class="row">
-  <section class="col-md-12">
+  <div class="col-md-12">
     <h1>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </h1>
-    <section class="byline">
+    <div class="byline">
       {{ page.date | date: "%B %e, %Y" }}
-    </section>
+    </div>
     {{ content }}
-  </section>
-  <section class="col-md-12">
+  </div>
+  <div class="col-md-12">
     <a href="{{ site.profile_url }}">
-    <img src="{{ site.gravatar_url }}?s=60" height="30" width="30" class="avatar" />
-  </a>
-  </section>
+      <img src="{{ site.gravatar_url }}?s=60" height="30" width="30" class="avatar" />
+    </a>
+  </div>
   <div class="col-md-12">
     <a href="{{ site.previous.url }}">prev</a>
     <a href="{{ site.next.url }}">next</a>
