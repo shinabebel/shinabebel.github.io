@@ -17,4 +17,8 @@ layout: layout
     <img src="{{ site.gravatar_url }}?s=60" height="30" width="30" class="avatar" />
   </a>
   </section>
+  <div class="col-md-12">
+    <a href="{{ site.previous.url }}">prev</a>
+    <a href="{{ site.next.url }}">next</a>
+  </div>
 </div>
