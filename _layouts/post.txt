@@ -11,7 +11,9 @@ layout: layout
       {{ page.date | date: "%B %e, %Y" }}
     </div>
   </div>
-  {{ content }}
+  <div class="col-md-12">
+    {{ content }}
+  </div>
   <div class="col-md-12">
     <a href="{{ site.profile_url }}">
       <img src="{{ site.gravatar_url }}?s=60" height="30" width="30" class="avatar" />
