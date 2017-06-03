@@ -1,0 +1,8 @@
+// https://code.visualstudio.com/docs/languages/css#_transpiling-sass-and-less-into-css
+// Sass configuration
+{
+    "version": "0.1.0",
+    "command": "node-sass",
+    "isShellCommand": true,
+    "args": ["${file}", "${workspaceRoot}/css/${fileBasenameNoExtension}.css"]
+}
