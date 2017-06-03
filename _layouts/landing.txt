@@ -23,9 +23,11 @@
 </head>
 
 <body>
-  <div class="container-fluid" style="height:100vh">
+  <div class="container-fluid" id="landing">
     <div class="row align-items-center">
-      <a href="/projects.html"><h1>Projects</h1></a>
+      <div class="col">
+        <a href="/projects.html"><h1>Projects</h1></a>
+      </div>
     </div>
   </div>
   <div class="container">
