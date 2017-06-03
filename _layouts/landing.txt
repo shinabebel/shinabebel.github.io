@@ -28,11 +28,9 @@
       <p><a href="/index.html">Info</a> / <a href="/projects.html">Projects</a>
     </div>
   </header>
-  <article>
     <div class="container">
       {{ content }}
     </div>
-  </article>
 
   <script src="https://code.jquery.com/jquery-3.1.1.slim.min.js" integrity="sha384-A7FZj7v+d/sdmMqp/nOQwliLvUsJfDHW+k9Omg/a/EheAdgtzNs3hpfag6Ed950n"
     crossorigin="anonymous"></script>
