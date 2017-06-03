@@ -1,7 +1,8 @@
-@import url("https://fonts.googleapis.com/css?family=Dosis:200,400,600,800");
+@import url("https://fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900");
 body {
-  font-family: 'Dosis', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
-  background-color: #080808; }
+  font-family: 'Roboto', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
+  background-color: #080808;
+  color: #e6e6e6; }
 
 a:hover {
   text-decoration: none; }
