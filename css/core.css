@@ -3,7 +3,12 @@ body {
   font-family: 'Dosis', 'Microsoft JhengHei', 'Heiti TC', sans-serif; }
 
 #landing {
-  height: 100vh; }
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  background-image: url("/images/landing.jpg");
+  background-attachment: fixed; }
   #landing a {
     color: white;
     font-weight: 200; }

@@ -6,6 +6,11 @@ body {
 
 #landing {
     height:100vh;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-image: url('/images/landing.jpg');
+    background-attachment: fixed;
     a {
         color: white;
         font-weight: 200;
