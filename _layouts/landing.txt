@@ -24,8 +24,8 @@
 
 <body>
   <div class="container-fluid" id="landing">
-    <div class="row align-items-center">
-      <div class="col">
+    <div class="row">
+      <div class="col align-self-center">
         <a href="/projects.html"><h1>Projects</h1></a>
       </div>
     </div>
