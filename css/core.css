@@ -17,6 +17,11 @@ a:hover {
 .is-dropdown-submenu {
   border: none; }
 
+.card {
+  border: none;
+  background: #202020;
+  margin: 5px 10px; }
+
 #landing {
   height: 100vh;
   background-repeat: no-repeat;
