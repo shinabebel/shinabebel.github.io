@@ -18,9 +18,11 @@ layout: layout
     {{ content }}
   </div>
   <div class="row">
-    <div class="button-group">
-      <a class="button secondary" href="{{ page.previous.url }}">PREVIOUS</a>
-      <a class="button secondary" href="{{ page.next.url }}">NEXT</a>
+    <div class="small-12 medium-12 columns">
+      <div class="button-group">
+        <a class="button secondary" href="{{ page.previous.url }}">PREVIOUS</a>
+        <a class="button secondary" href="{{ page.next.url }}">NEXT</a>
+      </div>
     </div>
   </div>
 </div>
