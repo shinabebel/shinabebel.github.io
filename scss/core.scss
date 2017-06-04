@@ -9,9 +9,10 @@
     background-image: url('/images/landing.jpg');
     background-attachment: fixed;
     text-align: center;
-    a {
-        h1 {
-            font-weight: 200;
-        }
+    .row {
+        height: 100vh;
+    }
+    h1>a {
+        font-weight: 200;
     }
 }

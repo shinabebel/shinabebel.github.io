@@ -16,7 +16,7 @@ a:hover {
   background-image: url("/images/landing.jpg");
   background-attachment: fixed;
   text-align: center; }
-  #landing a {
-    color: #e6e6e6; }
-    #landing a h1 {
-      font-weight: 200; }
+  #landing .row {
+    height: 100vh; }
+  #landing h1 > a {
+    font-weight: 200; }
