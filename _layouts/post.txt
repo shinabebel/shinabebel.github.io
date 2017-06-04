@@ -7,11 +7,14 @@ layout: layout
     <div class="small-12 medium-6 columns align-self-bottom">
       <h2>{{ page.title }}</h2>
     </div>
-    <div class="small-12 medium-6 columns align-self-bottom">>
-      <a class="date">{{ page.date | date: "%F" }}</a>
+    <div class="small-12 medium-6 columns align-self-bottom date">
+      <a>{{ page.date | date: "%F" }}</a>
     </div>
   </div>
   <div class="row">
+    <div class="small-12 medium-12 columns">
+      <img src="/images/{{ post.title | slugify }}.jpg" alt="{{ post.title }}">
+    </div>
     {{ content }}
   </div>
   <div class="row">
