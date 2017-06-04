@@ -34,3 +34,6 @@ a:hover {
     height: 100vh; }
   #landing h1 > a {
     font-weight: 100; }
+
+#post .date {
+  text-align: right; }

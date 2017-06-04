@@ -2,15 +2,19 @@
 layout: layout 
 ---
 
-<div class="row" id="post">
-  <div class="medium-12 columns">
-    <h2>{{ page.title }}</h2>
-    <a class="date">{{ page.date | date: "%F" }}</a>
+<div id="post">
+  <div class="row">
+    <div class="small-12 medium-6 columns align-self-bottom">
+      <h2>{{ page.title }}</h2>
+    </div>
+    <div class="small-12 medium-6 columns align-self-bottom">>
+      <a class="date">{{ page.date | date: "%F" }}</a>
+    </div>
   </div>
-  <div class="medium-12 columns">
+  <div class="row">
     {{ content }}
   </div>
-  <div class="medium-12 columns">
+  <div class="row">
     <div class="button-group">
       <a class="button secondary" href="{{ page.previous.url }}">PREVIOUS</a>
       <a class="button secondary" href="{{ page.next.url }}">NEXT</a>
