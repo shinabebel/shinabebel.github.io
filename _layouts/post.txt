@@ -8,7 +8,7 @@ layout: layout
     <a class="date">{{ page.date | date: "YYYY-MM-DD" }}</a>
   </div>
   <div class="medium-12 columns">
-    {{ page.content }}
+    {{ content }}
   </div>
   <div class="medium-12 columns">
     <div class="button-group">
