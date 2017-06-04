@@ -8,8 +8,7 @@
   <title>
     {% if page.title %} {{ page.title }} &ndash; {% endif %} {{ site.name }}
   </title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation.min.css" integrity="sha256-itWEYdFWzZPBG78bJOOiQIn06QCgN/F0wMDcC4nOhxY="
-    crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation-flex.css" integrity="sha256-Op9dj8UckHbvqjVYq3G1AsDI0Y+PZuoZbicz4aYnt1Q=" crossorigin="anonymous" />
   <link rel="stylesheet" href="/css/core.css" type="text/css" />
 </head>
 
