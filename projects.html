@@ -11,8 +11,8 @@ title: Projects
                 <img src="/images/thumbs/{{ post.title | slugify }}.jpg" alt="{{ post.title }}">
             </a>
             <div class="card-section">
-                <h4>{{ post.title }}</h4>
-                <p>({{ post.date | date: "%Y" }})</p>
+                <h5>{{ post.title }}</h5>
+                <a>({{ post.date | date: "%Y" }})</a>
             </div>
         </div>
     {% endif %}

@@ -5,7 +5,7 @@ layout: layout
 <div class="row" id="post">
   <div class="medium-12 columns">
     <h3>{{ page.title }}</h3>
-    <a class="date">{{ page.date | date: "YYYY-MM-DD" }}</a>
+    <a class="date">{{ page.date | date: "%Y-%M-%D" }}</a>
   </div>
   <div class="medium-12 columns">
     {{ content }}
