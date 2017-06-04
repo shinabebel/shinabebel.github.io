@@ -7,7 +7,7 @@ layout: layout
     <h1>
       <a href="{{ page.url }}">{{ page.title }}</a>
     </h1>
-    <div class="byline">
+    <div>
       {{ page.date | date: "%B %e, %Y" }}
     </div>
   </div>

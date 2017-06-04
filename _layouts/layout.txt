@@ -8,32 +8,33 @@
   <title>
     {% if page.title %} {{ page.title }} &ndash; {% endif %} {{ site.name }}
   </title>
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation-flex.css" integrity="sha256-Op9dj8UckHbvqjVYq3G1AsDI0Y+PZuoZbicz4aYnt1Q=" crossorigin="anonymous" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.1/css/foundation-flex.css" integrity="sha256-Op9dj8UckHbvqjVYq3G1AsDI0Y+PZuoZbicz4aYnt1Q="
+    crossorigin="anonymous" />
   <link rel="stylesheet" href="/css/core.css" type="text/css" />
 </head>
 
 <body>
   <div class="top-bar">
-    <div class="top-bar-left">
-      <ul class="dropdown menu" data-dropdown-menu>
-        <li class="menu-text">Site Title</li>
-        <li>
-          <a href="#">One</a>
-          <ul class="menu vertical">
-            <li><a href="#">One</a></li>
-            <li><a href="#">Two</a></li>
-            <li><a href="#">Three</a></li>
-          </ul>
-        </li>
-        <li><a href="#">Two</a></li>
-        <li><a href="#">Three</a></li>
-      </ul>
+    <div class="top-bar-title">
+      <span data-responsive-toggle="responsive-menu" data-hide-for="medium">
+      <button class="menu-icon dark" type="button" data-toggle></button>
+    </span>
+      <a href="/index.html"><strong>hoba</strong></a>
     </div>
-    <div class="top-bar-right">
-      <ul class="menu">
-        <li><input type="search" placeholder="Search"></li>
-        <li><button type="button" class="button">Search</button></li>
-      </ul>
+    <div id="responsive-menu">
+      <div class="top-bar-right">
+        <ul class="dropdown menu" data-dropdown-menu>
+          <li>
+            <a href="/projects.html">Projects</a>
+            <ul class="menu vertical">
+              <li><a href="#">One</a></li>
+              <li><a href="#">Two</a></li>
+              <li><a href="#">Three</a></li>
+            </ul>
+          </li>
+          <li><a href="#">Three</a></li>
+        </ul>
+      </div>
     </div>
   </div>
 

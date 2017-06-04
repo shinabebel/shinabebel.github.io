@@ -3,9 +3,10 @@ layout: layout
 title: Projects
 ---
 
+<div class="row">
 {% for post in site.posts %}
     {% if post.category == 'projects' %}
-        <div class="catalog-item">
+        <div class="columns">
             <a href="{{ post.url }}">
                 {{ post.title }} ({{ post.date | date: "%Y" }})
                 <img class="catalog-thumb" src="/images/thumbs/{{ post.title | slugify }}.jpg" alt="{{ post.title }}" />
@@ -13,3 +14,4 @@ title: Projects
         </div>
     {% endif %}
 {% endfor %}
+</div>
