@@ -4,16 +4,16 @@ layout: layout
 
 <div class="row" id="post">
   <div class="medium-12 columns">
-    <h3>{{ page.title }}</h3>
-    <a class="date">{{ page.date | date: "%Y-%M-%D" }}</a>
+    <h2>{{ page.title }}</h2>
+    <a class="date">{{ page.date | date: "%F" }}</a>
   </div>
   <div class="medium-12 columns">
     {{ content }}
   </div>
   <div class="medium-12 columns">
     <div class="button-group">
-      <a class="button" href="{{ page.previous.url }}">PREVIOUS</a>
-      <a class="button" href="{{ page.next.url }}">NEXT</a>
+      <a class="button secondary" href="{{ page.previous.url }}">PREVIOUS</a>
+      <a class="button secondary" href="{{ page.next.url }}">NEXT</a>
     </div>
   </div>
 </div>

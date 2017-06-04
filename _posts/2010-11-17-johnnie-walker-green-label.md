@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Johnnie Walker Green Label
+title: Johnnie Walker 綠牌品酩自然之旅
 category: projects
 ---
 
 <div class="responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/22432237?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-## Johnnie Walker Green Label
 
 #### Projection Mapping
 

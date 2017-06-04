@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Johnnie Walker Black Label
+title: Johnnie Walker 黑行星耀空派對
 category: projects
 ---
 
 <div class="responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/22432841?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>
-
-## Johnnie Walker Black Label
 
 #### Projection Mapping
 
