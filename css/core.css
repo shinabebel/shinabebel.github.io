@@ -5,21 +5,21 @@ body, a, h1, h2, h3, h4, h5, h6 {
   color: #080808; }
 
 body {
-  background-color: #9daeb2; }
+  background-color: #e6e6e6; }
 
 a:hover {
   text-decoration: none;
   color: #080808; }
 
 .top-bar, .top-bar ul {
-  background-color: #9daeb2; }
+  background-color: #e6e6e6; }
 
 .is-dropdown-submenu {
   border: none; }
 
 .card {
   border: none;
-  background: #e6e6e6;
+  background: #fcfcfc;
   margin: 5px 10px; }
 
 #landing {
