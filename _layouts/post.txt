@@ -4,16 +4,16 @@ layout: layout
 
 <div id="post">
   <div class="row">
-    <div class="small-12 medium-6 columns align-self-bottom">
+    <div class="small-12 medium-10 columns align-self-bottom">
       <h2>{{ page.title }}</h2>
     </div>
-    <div class="small-12 medium-6 columns align-self-bottom date">
+    <div class="small-12 medium-2 columns align-self-bottom date">
       <a>{{ page.date | date: "%F" }}</a>
     </div>
   </div>
   <div class="row">
     <div class="small-12 medium-12 columns">
-      <img src="/images/{{ post.title | slugify }}.jpg" alt="{{ post.title }}">
+      <img src="/images/{{ page.title | slugify }}.jpg" alt="{{ page.title }}">
     </div>
     {{ content }}
   </div>
