@@ -3,7 +3,7 @@
 body, a, h1, h2, h3, h4, h5, h6 {
     font-family: 'Roboto', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
     font-weight: 300;
-    color: $color-white;
+    color: $color-black;
 }
 
 body {
@@ -12,11 +12,11 @@ body {
 
 a:hover {
     text-decoration: none;
-    color: $color-white;
+    color: $color-black;
 }
 
 .top-bar, .top-bar ul {
-    background-color: $color-secondary-0;
+    background-color: $color-primary-0;
 }
 
 .is-dropdown-submenu {
@@ -25,6 +25,6 @@ a:hover {
 
 .card {
     border: none;
-    background: $color-secondary-1;
+    background: $color-white;
     margin: 5px 10px;
 }

@@ -2,24 +2,24 @@
 body, a, h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
   font-weight: 300;
-  color: #e6e6e6; }
+  color: #080808; }
 
 body {
-  background-color: #4F726C; }
+  background-color: #9daeb2; }
 
 a:hover {
   text-decoration: none;
-  color: #e6e6e6; }
+  color: #080808; }
 
 .top-bar, .top-bar ul {
-  background-color: #3F3925; }
+  background-color: #9daeb2; }
 
 .is-dropdown-submenu {
   border: none; }
 
 .card {
   border: none;
-  background: #BEAF7A;
+  background: #e6e6e6;
   margin: 5px 10px; }
 
 #landing {
