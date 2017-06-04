@@ -1,6 +1,7 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900");
 body, a, h1, h2, h3, h4, h5, h6 {
   font-family: 'Roboto', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
+  font-weight: 300;
   color: #e6e6e6; }
 
 body {
@@ -9,6 +10,12 @@ body {
 a:hover {
   text-decoration: none;
   color: #e6e6e6; }
+
+.top-bar, .top-bar ul {
+  background-color: #202020; }
+
+.is-dropdown-submenu {
+  border: none; }
 
 #landing {
   height: 100vh;
@@ -21,4 +28,4 @@ a:hover {
   #landing .row {
     height: 100vh; }
   #landing h1 > a {
-    font-weight: 200; }
+    font-weight: 100; }
