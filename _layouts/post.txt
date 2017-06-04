@@ -12,7 +12,7 @@ layout: layout
     </div>
   </div>
   <div class="row">
-    <div class="small-12 medium-12 columns">
+    <div class="small-12 medium-12 columns banner">
       <img src="/images/{{ page.title | slugify }}.jpg" alt="{{ page.title }}">
     </div>
     {{ content }}
