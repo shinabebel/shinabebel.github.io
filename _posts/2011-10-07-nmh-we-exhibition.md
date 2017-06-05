@@ -22,6 +22,8 @@ category: projects
 </div>
 
 ![nmh-we-exhibition-1](/images/nmh-we-exhibition-1.jpg)
-![nmh-we-exhibition-2](/images/nmh-we-exhibition-2.jpg)
-![nmh-we-exhibition-3](/images/nmh-we-exhibition-3.jpg)
-![nmh-we-exhibition-4](/images/nmh-we-exhibition-4.jpg)
+![bbr](//www.bbr-co.com/Uploads/Class/CURATIONDESIGN-004-003.jpg)
+![bbr](//www.bbr-co.com/Uploads/Class/CURATIONDESIGN-004-004.jpg)
+![bbr](//www.bbr-co.com/Uploads/Class/CURATIONDESIGN-004-007.jpg)
+
+
