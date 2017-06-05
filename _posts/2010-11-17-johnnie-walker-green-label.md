@@ -4,16 +4,16 @@ title: Johnnie Walker Green Label
 category: projects
 ---
 
-<div class="small-12 medium-4 columns">
+<div class="small-12 medium-4 columns title">
 <h3>2010 JOHNNIE WALKER GREEN LABEL MAPPING PROJECTION PARTY</h3>
 </div>
 
-<div class="small-12 medium-4 columns">
+<div class="small-12 medium-4 columns cht">
 <p>於台北華山 1914 創意文化園區展開的，夜的華山 Johnnie Walker 綠牌品酩自然之旅，將綠牌的各種風味轉譯投影在華山藝文牆面之上。</p>
 <p>負責動畫腳本、動畫監督、技術整合與現場執行。</p>
 </div>
 
-<div class="small-12 medium-4 columns">
+<div class="small-12 medium-4 columns eng">
 <p>The architecture projection of Johnnie Walker Green Label party in the Huashan1914, Taipei. Responsible for animation script, animation supervision, technical support of projection and on-site execution.</p>
 </div>
 

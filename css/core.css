@@ -66,6 +66,9 @@ a:hover {
   margin-top: 10px;
   margin-bottom: 30px; }
 
+#post .cht > p {
+  font-weight: 500; }
+
 #post .space {
   height: 30px; }
 
