@@ -3,7 +3,7 @@ layout: layout
 ---
 
 <div id="post">
-  <div class="row">
+  <div class="row" style="display:none">
     <div class="small-12 medium-10 columns align-self-bottom">
       <h2>{{ page.title }}</h2>
     </div>
