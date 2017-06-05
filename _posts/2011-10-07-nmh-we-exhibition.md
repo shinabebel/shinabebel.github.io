@@ -1,6 +1,6 @@
 ---
 layout: post
-title: NMH We Exhibition
+title: NMH "We" Exhibition
 category: projects
 ---
 
@@ -15,3 +15,4 @@ category: projects
 ![nmh-we-exhibition-1](/images/nmh-we-exhibition-1.jpg)
 ![nmh-we-exhibition-2](/images/nmh-we-exhibition-2.jpg)
 ![nmh-we-exhibition-3](/images/nmh-we-exhibition-3.jpg)
+![nmh-we-exhibition-4](/images/nmh-we-exhibition-4.jpg)
