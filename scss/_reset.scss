@@ -53,5 +53,8 @@ a:hover {
 .card {
     border: none;
     background: $color-white-0;
-    margin: 5px 10px;
+    margin: 15px 25px;
+    img {
+        width: 350px;
+    }
 }

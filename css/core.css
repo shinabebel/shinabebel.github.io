@@ -42,7 +42,9 @@ a:hover {
 .card {
   border: none;
   background: #fcfcfc;
-  margin: 5px 10px; }
+  margin: 15px 25px; }
+  .card img {
+    width: 350px; }
 
 #landing {
   height: 100vh;
