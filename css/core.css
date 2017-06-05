@@ -61,4 +61,8 @@ a:hover {
   text-align: right; }
 
 #post .banner {
+  margin-top: 10px;
   margin-bottom: 30px; }
+
+#post .space {
+  height: 30px; }

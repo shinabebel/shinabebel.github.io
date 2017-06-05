@@ -18,6 +18,10 @@ category: projects
 Responsible for animation script, animation supervision, technical support of projection and on-site execution.</p>
 </div>
 
+<div class="small-12 medium-12 columns space">
+<!-- space -->
+</div>
+
 <div class="small-12 medium-12 responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/22432841?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 </div>

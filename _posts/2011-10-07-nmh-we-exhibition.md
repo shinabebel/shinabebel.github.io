@@ -17,6 +17,10 @@ category: projects
 <p>An exhibition using art to interpret the history sealed in our memories. Deducing the collection of National Museum of History, this special event involved the visitors into experiencing an extraordinary journey by re-knowing ourselves—the carefree “I” , the landmarks in Taiwan, the “we” who went through ups and downs of the country together, the most beautiful scenery and people’s home. By withdrawing our ego and seeing the symbiotic relationships of everything around us, visitors participated a spiritual path of knowing themselves.</p>
 </div>
 
+<div class="small-12 medium-12 columns space">
+<!-- space -->
+</div>
+
 ![nmh-we-exhibition-1](/images/nmh-we-exhibition-1.jpg)
 ![nmh-we-exhibition-2](/images/nmh-we-exhibition-2.jpg)
 ![nmh-we-exhibition-3](/images/nmh-we-exhibition-3.jpg)
