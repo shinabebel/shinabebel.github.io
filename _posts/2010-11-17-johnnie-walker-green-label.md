@@ -21,10 +21,10 @@ category: projects
 <!-- space -->
 </div>
 
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-010-007.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-010-002.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-010-004.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-010-005.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-010-007.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-010-002.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-010-004.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-010-005.jpg)
 
 <div class="small-12 medium-12 responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/22432237?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

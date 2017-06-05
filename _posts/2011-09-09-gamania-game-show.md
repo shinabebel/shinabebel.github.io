@@ -20,9 +20,9 @@ category: projects
 <!-- space -->
 </div>
 
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-012-003.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-012-007.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-012-009.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-012-003.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-012-007.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-012-009.jpg)
 
 <div class="small-12 medium-12 responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/31473500?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

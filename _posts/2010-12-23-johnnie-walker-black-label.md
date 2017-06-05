@@ -22,10 +22,10 @@ Responsible for animation script, animation supervision, technical support of pr
 <!-- space -->
 </div>
 
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-009-001.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-009-002.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-009-005.jpg)
-![bbr](//www.bbr-co.com/Uploads/Class/EVENT-009-006.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-009-001.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-009-002.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-009-005.jpg)
+![bbr](http://www.bbr-co.com/Uploads/Class/EVENT-009-006.jpg)
 
 <div class="small-12 medium-12 responsive-embed widescreen">
 <iframe src="//player.vimeo.com/video/22432841?byline=0&amp;portrait=0" width="100%" height="100%" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
