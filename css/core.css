@@ -1,5 +1,13 @@
 @import url("https://fonts.googleapis.com/css?family=Roboto:100,300,500,700,900");
-body, a, p, h1, h2, h3, h4, h5, h6 {
+body,
+a,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: 'Roboto', 'Microsoft JhengHei', 'Heiti TC', sans-serif;
   font-weight: 300;
   color: #080808; }
@@ -11,8 +19,22 @@ a:hover {
   text-decoration: none;
   color: #080808; }
 
-.top-bar, .top-bar ul {
-  background-color: #e6e6e6; }
+.topbar-center-logo {
+  background: #2c3840; }
+  .topbar-center-logo .menu {
+    background: #2c3840; }
+    .topbar-center-logo .menu a {
+      color: #e6e6e6; }
+  .topbar-center-logo .top-bar-center {
+    flex: 1 0 auto; }
+    @media screen and (max-width: 39.9375em) {
+      .topbar-center-logo .top-bar-center {
+        display: none; } }
+
+.topbar-center-logo-mobile {
+  background: #2c3840; }
+  .topbar-center-logo-mobile .menu-icon {
+    vertical-align: text-top; }
 
 .is-dropdown-submenu {
   border: none; }
