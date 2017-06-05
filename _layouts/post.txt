@@ -11,7 +11,7 @@ layout: layout
       <a>{{ page.date | date: "%F" }}</a>
     </div>
   </div>
-  <div class="row align-center">
+  <div class="row">
     <div class="small-12 medium-12 columns banner">
       <img src="/images/{{ page.title | slugify }}.jpg" alt="{{ page.title }}">
     </div>
